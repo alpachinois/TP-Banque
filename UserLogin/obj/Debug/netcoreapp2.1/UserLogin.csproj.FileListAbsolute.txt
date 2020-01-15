@@ -1,0 +1,14 @@
+C:\Users\blu\source\repos\TP Banque\UserLogin\bin\Debug\netcoreapp2.1\UserLogin.deps.json
+C:\Users\blu\source\repos\TP Banque\UserLogin\bin\Debug\netcoreapp2.1\UserLogin.runtimeconfig.json
+C:\Users\blu\source\repos\TP Banque\UserLogin\bin\Debug\netcoreapp2.1\UserLogin.runtimeconfig.dev.json
+C:\Users\blu\source\repos\TP Banque\UserLogin\bin\Debug\netcoreapp2.1\UserLogin.dll
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.csprojAssemblyReference.cache
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.RazorAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.RazorAssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.AssemblyInfoInputs.cache
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.AssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.RazorTargetAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\UserLogin\bin\Debug\netcoreapp2.1\UserLogin.pdb
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.dll
+C:\Users\blu\source\repos\TP Banque\UserLogin\obj\Debug\netcoreapp2.1\UserLogin.pdb

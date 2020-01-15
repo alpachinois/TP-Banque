@@ -1,0 +1,14 @@
+C:\Users\blu\source\repos\TP Banque\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\blu\source\repos\TP Banque\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\blu\source\repos\TP Banque\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\blu\source\repos\TP Banque\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\blu\source\repos\TP Banque\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.RazorAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.RazorAssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.RazorTargetAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\blu\source\repos\TP Banque\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb

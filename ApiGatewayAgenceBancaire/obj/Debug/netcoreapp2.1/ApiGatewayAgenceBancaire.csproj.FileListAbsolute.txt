@@ -1,0 +1,14 @@
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\bin\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.deps.json
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\bin\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.runtimeconfig.json
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\bin\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.runtimeconfig.dev.json
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\bin\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.dll
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.csprojAssemblyReference.cache
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.csproj.CoreCompileInputs.cache
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.RazorAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.RazorAssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.AssemblyInfoInputs.cache
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.AssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.RazorTargetAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\bin\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.pdb
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.dll
+C:\Users\blu\source\repos\TP Banque\ApiGatewayAgenceBancaire\obj\Debug\netcoreapp2.1\ApiGatewayAgenceBancaire.pdb

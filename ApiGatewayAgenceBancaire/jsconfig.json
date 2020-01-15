@@ -1,0 +1,5 @@
+{
+  "LoginUrl": "http://localhost:9001",
+  "BankAccountUrl": "http://localhost:9002",
+  "UserAccountUrl": "http://localhost:9003"
+}

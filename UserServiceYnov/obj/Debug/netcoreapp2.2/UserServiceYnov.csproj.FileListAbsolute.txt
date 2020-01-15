@@ -1,0 +1,13 @@
+C:\Users\Binh\Downloads\UserServiceYnov\bin\Debug\netcoreapp2.2\UserServiceYnov.deps.json
+C:\Users\Binh\Downloads\UserServiceYnov\bin\Debug\netcoreapp2.2\UserServiceYnov.runtimeconfig.json
+C:\Users\Binh\Downloads\UserServiceYnov\bin\Debug\netcoreapp2.2\UserServiceYnov.runtimeconfig.dev.json
+C:\Users\Binh\Downloads\UserServiceYnov\bin\Debug\netcoreapp2.2\UserServiceYnov.dll
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.csproj.CoreCompileInputs.cache
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.RazorAssemblyInfo.cache
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.RazorAssemblyInfo.cs
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.AssemblyInfoInputs.cache
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.AssemblyInfo.cs
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.RazorTargetAssemblyInfo.cache
+C:\Users\Binh\Downloads\UserServiceYnov\bin\Debug\netcoreapp2.2\UserServiceYnov.pdb
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.dll
+C:\Users\Binh\Downloads\UserServiceYnov\obj\Debug\netcoreapp2.2\UserServiceYnov.pdb

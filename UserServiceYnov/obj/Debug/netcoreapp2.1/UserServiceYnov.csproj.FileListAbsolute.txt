@@ -1,0 +1,14 @@
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\bin\Debug\netcoreapp2.1\UserServiceYnov.deps.json
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\bin\Debug\netcoreapp2.1\UserServiceYnov.runtimeconfig.json
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\bin\Debug\netcoreapp2.1\UserServiceYnov.runtimeconfig.dev.json
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\bin\Debug\netcoreapp2.1\UserServiceYnov.dll
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\bin\Debug\netcoreapp2.1\UserServiceYnov.pdb
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.csprojAssemblyReference.cache
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.csproj.CoreCompileInputs.cache
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.RazorAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.RazorAssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.AssemblyInfoInputs.cache
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.AssemblyInfo.cs
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.RazorTargetAssemblyInfo.cache
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.dll
+C:\Users\blu\source\repos\TP Banque\UserServiceYnov\obj\Debug\netcoreapp2.1\UserServiceYnov.pdb
